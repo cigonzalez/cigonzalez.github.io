@@ -1,0 +1,61 @@
+.nav-link {
+  color: white;
+}
+
+h1,
+h2 {
+  color: black;
+}
+
+nav {
+  background-color: darkcyan;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #545e6c;
+  background: ivory;
+  font-size: 16px;
+}
+
+#about h3 {
+  color: darkcyan;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h3 {
+    color: darkcyan;
+}
+
+a {
+  color: darkturquoise;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+section {
+    padding-top: 7%;
+}
+
+.time {
+  color: black;
+}
+
+h3 {
+    color: #2d7788;
+    font-size: 20px;
+
+}
+
+footer {
+    background-color: black;
+}
+
+.progress-bar {
+    background-color: darkturquoise;
+}
